@@ -1,0 +1,22 @@
+{
+  "name": "backend-engineering",
+  "version": "1.0.0",
+  "description": "Contains fundamentals of BAckend engineering uwu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinitGurjar/Backend-Engineering.git"
+  },
+  "author": "https://github.com/VinitGurjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinitGurjar/Backend-Engineering/issues"
+  },
+  "homepage": "https://github.com/VinitGurjar/Backend-Engineering#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
